@@ -1,2 +1,0 @@
-# inkers
-Inkers solutions
